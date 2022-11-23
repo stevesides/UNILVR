@@ -15,7 +15,7 @@
         </style>
 
         <style>
-            body {
+            /* body {
                 font-family: 'Nunito', sans-serif;
             }
         </style>
@@ -127,6 +127,9 @@
                     </div>
                 </div>
             </div>
+        </div> */
+        <div>
+        @yield ('body') 
         </div>
     </body>
 </html>
