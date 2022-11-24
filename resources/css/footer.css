@@ -1,0 +1,117 @@
+.foo-first {
+    background: #001f82;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    margin-top: 2em;
+}
+.foo-icon {
+    margin: 0em 0.8em;
+}
+.foo-icon > a > img {
+    height: 2em;
+}
+.foo-first > :nth-child(3){
+    margin-left: 5em
+}
+.foo-second {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1.5em;
+    margin: 0em 10em;
+}
+.foo-second-social {
+    display: flex;
+    margin: 2em 0em;
+}
+.foo-second-social > :nth-child(1){
+    margin-left: 0em !important;
+
+}
+.subtitle-primary {
+    color: #005eff;
+    font-size: 2em;
+    font-family: candal;
+}
+.paragraph{
+    margin: 1em 0em;
+    font-family: Jura;
+    color: #73706e;
+    font-size: 1em;
+}
+.foo-third {
+    padding: 1em;
+    background: #005eff;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    color: white;
+    padding-left: 8em;
+    padding-bottom: 5em;
+}
+.foo-sub-first > div {
+    margin: 2em;
+    font-family: 'Candal';
+    margin-left: 0!important;
+    width:60%;
+}
+.foo-logo-label{
+    font-size: 2em;
+}
+.foo-first > :nth-child(2){
+    font-family: Rubik;
+}
+.footer-third-link {
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+    margin-right: 1em;
+    margin-top: 3em;
+}
+.link-foo-group-sub{
+    margin: 1em 0em;
+}
+.foo-logo-char {
+    display: flex;
+}
+.foo-logo-char > i {
+    font-size: 0.9em;
+}
+.foo-second-bloc {
+    width: 30em;
+}
+.foo-location {
+    margin-top: 1em;
+    font-size: 0.9em;
+}
+.foo-join {
+    padding: 1em;
+    width: auto;
+    background: #77ddf5;
+    color: #7801bd;
+    font-family: 'Candal';
+    text-align: center;
+}
+.foo-join-master{
+    display: flex;
+    cursor: pointer;
+}
+.foo-join-icon{
+    width: 2em !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 2px solid white;
+}
+.foo-join-icon > img {
+    height: 1em;
+}
+.foo-sub-second{
+    position: relative
+}
+.foo-sub-second > img {
+    height: 25em;
+    position: absolute;
+    bottom: -80px;
+    right:0px
+}
