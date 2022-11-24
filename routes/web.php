@@ -16,3 +16,14 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('master');
 });
+Route::get('/headers', function () {
+    return view('components.headers');
+});
+Route::get('/footers', function () {
+    return view('components.footers');
+});
+Route::get('/home', function () {
+    return view('layouts.home');
+});
+
+

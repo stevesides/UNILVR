@@ -1,3 +1,4 @@
+@extends ('master')
 @section ('body') 
 Headers
-@endsction
+@endsection
