@@ -1,5 +1,3 @@
-@extends ('master')
-@section ('body') 
 <body class="antialiased">
         <header>
         <div class="topnav"> 
@@ -14,4 +12,3 @@
   <a href="">Actualités</a>
   <a href="">Unilever Carrières</a> <br>
 </div>
-@endsection
