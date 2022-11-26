@@ -2,10 +2,10 @@
         <header>
         <div class="topnav"> 
       <div class="hd" >
-      Unilever France     Changer l'emplacement
+      Unilever France  
+      <a class="fl" href=""> Changer l'emplacement</a> 
       </div>   
       <input type="text" placeholder="Rechercher dans le site"> <br><br><br>
-      <!-- <img src="/img/logo-animated.svg" alt=""> -->
   <a class="active" href="#home">Notre Entreprise</a>
   <a href="">Marques</a>
   <a href="">Planète et société</a>
