@@ -147,6 +147,8 @@
   /* Style the search box inside the navigation bar */
   .topnav input[type=text] {
     float: right;
+    background-color: #001f82;
+    color: white;
     padding: 6px;
     border: none;
     margin-top: 19px;
@@ -197,7 +199,11 @@
     color: white;
     height: 150px;
   }
-  .button{
+  button{
+    position: relative;
+    bottom: 96px;
+    left: 440px;
+    border: none;
     padding: 1em;
     width: 110;
     height: 110;

@@ -16,7 +16,6 @@
     <body>
         @include('components.headers')
         @yield ('body') 
-        @yield ('marques')
         @include('components.footers')
     </body>
 </html>
