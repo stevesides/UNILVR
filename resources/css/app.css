@@ -1,4 +1,3 @@
-@import url("./footer.css");
 @import url("./header.css");
-@import url("./footer.css")
-@import url("./marques.css") 
+@import url("./marques.css"); 
+@import url("./footer.css");

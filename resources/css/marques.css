@@ -1,3 +1,21 @@
+/* marques css */
+.descr{
+    font-size: 25px;
+    color: white;
+    position: relative;
+    left: 35px;
+   top: 40px;
+}
+.fontt{
+    position: relative;
+    left: 80px;
+}
 section{
-    background-color: pink;
+    position: relative;
+    display: flex;
+    bottom: 52px;
+    background-color: #e60067;
+}
+.maq{
+    font-size: 40px;
 }
